@@ -1,0 +1,68 @@
+.backimg
+{
+    height: 700px;
+    width:1450px;
+
+}
+.background
+{
+    position: relative;
+}
+.text-container
+{
+    position: absolute;
+    color: rgb(255, 255, 255);
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background-color: rgba(41, 41, 41, 0.8);
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 16px;
+}
+.download1
+{
+    height: 300px;
+    width: 400px;
+}
+.download2
+{
+    height:300px;
+    width:350px;
+}
+.download3
+{
+    height:300px;
+    width:400px;
+}
+.unique
+{
+    height:600px;
+    width:650px;
+}
+h2{
+    text-align: center;
+}
+.uniquec
+{
+    background-color: orange;
+
+}
+.about
+{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+}
+.team
+{
+    height:300px;
+    width:300px;
+    border-radius: 100px;
+}
+.footer1
+{
+    background-color: gray;
+    height:250px;
+}
